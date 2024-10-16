@@ -1,6 +1,6 @@
 # Utrecht University NLP Group Meeting: Fall 2024
 
-Time: **11:00-12:15, Thursday**  
+Time: **11:00-12:15, Thursday**
 
 Location: **BBG 5.45** (Buys Ballotgebouw, Princetonplein 5, 3584 CC Utrecht)
 
@@ -8,18 +8,18 @@ Location: **BBG 5.45** (Buys Ballotgebouw, Princetonplein 5, 3584 CC Utrecht)
 
 We welcome different types of presentations relevant to NLP, including but not limited to:
 - Original (ongoing or published) work from group members
-- Interesting published papers, hopefully from top-tier conferences or journals 
+- Interesting published papers, hopefully from top-tier conferences or journals
   (e.g. ACL, EMNLP, NAACL, TACL, EACL, ICLR, ICML, NeurIPS, etc.)
-- Overviews of interesting topics 
+- Overviews of interesting topics
   (e.g., trends in vision-language pre-training, techniques for efficient training of models, etc.)
 
 Sometimes we also have research rounds, where we discuss ongoing work of group members.
 
 ### For Presenters
 
-Generally we encourage the presenters to upload their slides and other materials 
-a few days ahead of the meeting, 
-so that the audience can already familiarize themselves with the topic. 
+Generally we encourage the presenters to upload their slides and other materials
+a few days ahead of the meeting,
+so that the audience can already familiarize themselves with the topic.
 
 ### Schedule
 
@@ -29,7 +29,7 @@ so that the audience can already familiarize themselves with the topic.
 |2 | 2024-09-19 | Yupei | Data pruning revisited | [[Slides]](https://docs.google.com/presentation/d/1ibAtlVHhlPjDcOP9X91KmNR06mq0twAkxDKFvNBkzKQ/edit?usp=sharing) [[Draft]](https://www.overleaf.com/read/wjphkpnjsxbk#852c7a) |
 |3 | 2024-09-26 | Daniil | Complex gold in RST | [[Slides]](https://drive.google.com/file/d/1F-F_GbBd1OUC4LD-SeEUudOsCwlItMOq/view?usp=sharing) |
 |5 | 2024-10-03 | Canceled: [1st NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-1-meeting) | - | - |
-|6 | 2024-10-10 | David van Kuijk | Challenges of Evaluating LLMs | - |
+|6 | 2024-10-10 | David van Kuijk | Challenges of Evaluating LLMs | [[Slides]](https://ehudreiter.com/wp-content/uploads/2024/07/eval-llm-jul24.pdf) |
 |7 | 2024-10-17 | Anna | EMNLP rehearsal | |
 |8 | 2024-10-24 | Eduardo | | |
 |9 | 2024-10-31 | | | |
