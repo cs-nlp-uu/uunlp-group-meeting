@@ -31,7 +31,7 @@ so that the audience can already familiarize themselves with the topic.
 |5 | 2024-10-03 | Canceled: [1st NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-1-meeting) | - | - |
 |6 | 2024-10-10 | David van Kuijk | Challenges of Evaluating LLMs | [[Slides]](https://ehudreiter.com/wp-content/uploads/2024/07/eval-llm-jul24.pdf) |
 |7 | 2024-10-17 | Anna | EMNLP rehearsal | |
-|8 | 2024-10-24 | Eduardo | | |
+|8 | 2024-10-24 | Eduardo | L2T Evaluation metric | [[Slides]](https://github.com/user-attachments/files/17523165/Automatic_Metric_PPT___NLP_Meeting.pdf) |
 |9 | 2024-10-31 | New stuff meeting? | | |
 |10 | 2024-11-07 |Anh | | |
 |11 | 2024-11-14 | | | |
@@ -45,8 +45,8 @@ so that the audience can already familiarize themselves with the topic.
 * ~~Yupei~~
 * ~~Daniil~~
 * ~~David~~
-* _Anna_
-* Eduardo
+* ~~_Anna_~~
+* ~~Eduardo~~
 * Elize
 * _Anh_
 * Nan
