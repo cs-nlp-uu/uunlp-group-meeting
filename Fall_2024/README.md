@@ -32,7 +32,7 @@ so that the audience can already familiarize themselves with the topic.
 |6 | 2024-10-10 | David van Kuijk | Challenges of Evaluating LLMs | [[Slides]](https://ehudreiter.com/wp-content/uploads/2024/07/eval-llm-jul24.pdf) |
 |7 | 2024-10-17 | Anna | EMNLP rehearsal | |
 |8 | 2024-10-24 | Eduardo | | |
-|9 | 2024-10-31 | | | |
+|9 | 2024-10-31 | New stuff meeting? | | |
 |10 | 2024-11-07 |Anh | | |
 |11 | 2024-11-14 | | | |
 |12 | 2024-11-21 | | | |
