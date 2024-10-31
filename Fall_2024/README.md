@@ -32,7 +32,7 @@ so that the audience can already familiarize themselves with the topic.
 |6 | 2024-10-10 | David van Kuijk | Challenges of Evaluating LLMs | [[Slides]](https://ehudreiter.com/wp-content/uploads/2024/07/eval-llm-jul24.pdf) |
 |7 | 2024-10-17 | Anna | EMNLP rehearsal | |
 |8 | 2024-10-24 | Eduardo | L2T Evaluation metric | [[Slides]](https://github.com/user-attachments/files/17523165/Automatic_Metric_PPT___NLP_Meeting.pdf) |
-|9 | 2024-10-31 | New stuff meeting: Yupei, Daniil | | |
+|9 | 2024-10-31 | New stuff meeting: Yupei, Daniil | Yupei: OpenAI o1 series and complex reasoning | [[Yupei's Slides]](https://docs.google.com/presentation/d/1JuGKVtbypKEbwdtS5jDIAQJX0A7zWCumaOR-9BVJWZE/edit?usp=sharing) |
 |10 | 2024-11-07 |Anh | | |
 |11 | 2024-11-14 | | | |
 |12 | 2024-11-21 | | | |
