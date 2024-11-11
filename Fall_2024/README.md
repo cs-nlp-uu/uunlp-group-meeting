@@ -35,8 +35,8 @@ so that the audience can already familiarize themselves with the topic.
 |9 | 2024-10-31 | New stuff meeting: Yupei, Daniil | Yupei: OpenAI o1 series and complex reasoning | [[Yupei's Slides]](https://docs.google.com/presentation/d/1JuGKVtbypKEbwdtS5jDIAQJX0A7zWCumaOR-9BVJWZE/edit?usp=sharing) |
 |10 | 2024-11-07 |Anh | - | - |
 |11 | 2024-11-14 | Canceled: [Protest against budget cuts](https://students.uu.nl/en/news/support-the-protest-against-higher-education-budget-cuts-on-14-november) | - | - |
-|12 | 2024-11-21 | | | |
-|13 | 2024-11-28 | | | |
+|12 | 2024-11-21 | Yingjin | | |
+|13 | 2024-11-28 | Nan | | |
 |14 | 2024-12-05 | | | |
 |15 | 2024-12-12 | | | |
 
@@ -48,9 +48,9 @@ so that the audience can already familiarize themselves with the topic.
 * ~~_Anna_~~
 * ~~Eduardo~~
 * ~~Elize~~
-* _Anh_
-* Nan
+* ~~_Anh_~~
 * Yingjin
+* Nan
 * Shane
 * Hugh Mee
 * Massimo
