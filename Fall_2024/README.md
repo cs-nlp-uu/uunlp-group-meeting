@@ -36,7 +36,7 @@ so that the audience can already familiarize themselves with the topic.
 |10 | 2024-11-07 |Anh | Ambiguity in Coreference Resolution | [Slides](<https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Fall_2024/week_10/NLP gr 07-11.pdf>) |
 |11 | 2024-11-14 | Canceled: [Protest against budget cuts](https://students.uu.nl/en/news/support-the-protest-against-higher-education-budget-cuts-on-14-november) | - | - |
 |12 | 2024-11-21 | Yingjin | | |
-|13 | 2024-11-28 | Nan | | |
+|13 | 2024-11-28 | Nan | |[\[paper\]](https://aclanthology.org/2024.emnlp-main.483/) [\[slides\]](https://drive.google.com/file/d/1hxoakJHrQ8UM-qjScLW2PqajCVgqKy4e/view?usp=sharing)|
 |14 | 2024-12-05 | | | |
 |15 | 2024-12-12 | | | |
 
@@ -49,8 +49,8 @@ so that the audience can already familiarize themselves with the topic.
 * ~~Eduardo~~
 * ~~Elize~~
 * ~~_Anh_~~
-* Yingjin
-* Nan
+* ~~Yingjin~~
+* ~~Nan~~
 * Shane
 * Hugh Mee
 * Massimo
