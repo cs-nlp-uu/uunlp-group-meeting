@@ -52,7 +52,7 @@ so that the audience can already familiarize themselves with the topic.
 * ~~_Anh_~~
 * ~~Yingjin~~
 * ~~Nan~~
-* Shane
+* ~~Shane~~
 * Hugh Mee
 * Massimo
 * Anh
