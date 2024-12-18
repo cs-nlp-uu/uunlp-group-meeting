@@ -39,7 +39,7 @@ so that the audience can already familiarize themselves with the topic.
 |13 | 2024-11-28 | Nan | Perceptions of Uncertainty Expressions |[\[paper\]](https://aclanthology.org/2024.emnlp-main.483/) [\[slides\]](https://drive.google.com/file/d/1hxoakJHrQ8UM-qjScLW2PqajCVgqKy4e/view?usp=sharing)|
 |14 | 2024-12-05 | Research round | - | - |
 |15 | 2024-12-12 | Shane | - | - |
-|16 | 2024-12-19 | | | |
+|16 | 2024-12-19 | Hugh Mee | Paper | |
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 
