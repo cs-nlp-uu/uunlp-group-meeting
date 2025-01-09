@@ -53,7 +53,7 @@ so that the audience can already familiarize themselves with the topic.
 * ~~Yingjin~~
 * ~~Nan~~
 * ~~Shane~~
-* Hugh Mee
+* ~~Hugh Mee~~
 * Massimo
 * Anh
 * Eduardo
