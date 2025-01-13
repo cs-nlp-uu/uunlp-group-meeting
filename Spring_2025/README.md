@@ -27,7 +27,9 @@ so that the audience can already familiarize themselves with the topic.
 | ---- | ----- | --------- | --------- | --------- |
 |1 | 2025-09-01 | Esther Ploeger | Guest talk | - |
 |2 | 2025-16-01 | Canceled: [2nd NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-2-meeting) | - | - |
-|3 | 2025-23-01 | - | - | - |
+|3 | 2025-23-01 | Anh Dang | - | - |
+|4 | 2025-30-01 | Sanne Hoeken?? | - | - |
+|5 | 2025-06-02 | Massimo?? | - | - |
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 
