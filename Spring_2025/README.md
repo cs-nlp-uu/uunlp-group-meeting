@@ -28,7 +28,7 @@ so that the audience can already familiarize themselves with the topic.
 |1 | 2025-09-01 | Esther Ploeger | Guest talk | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_1/beyond_posthoc_typological_diversity_in_nlp.pdf) |
 |2 | 2025-16-01 | Canceled: [2nd NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-2-meeting) | - | - |
 |3 | 2025-23-01 | Research round | - | - |
-|4 | 2025-30-01 | Sanne Hoeken | - | - |
+|4 | 2025-30-01 | Sanne Hoeken | [Hateful Word in Context Classification](https://aclanthology.org/2024.emnlp-main.10.pdf) | - |
 |5 | 2025-06-02 | Massimo | - | - |
 |5 | 2025-13-02 | Anh | - | - |
 
