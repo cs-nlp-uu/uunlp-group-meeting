@@ -30,8 +30,11 @@ so that the audience can already familiarize themselves with the topic.
 |3 | 2025-23-01 | Research round | - | - |
 |4 | 2025-30-01 | Canceled | - | - |
 |5 | 2025-06-02 | Sanne Hoeken | [Hateful Word in Context Classification](https://aclanthology.org/2024.emnlp-main.10.pdf) | - |
-|6 | 2025-13-02 | Massimo | - | - |
-|7 | 2025-20-02 | Eduardo | - | - |
+|6 | 2025-13-02 | Anh | - | - |
+|7 | 2025-20-02 | Massimo | - | - |
+|8 | 2025-27-02 | Eduardo | - | - |
+|9 | 2025-06-03 | Sophia?? | - | - |
+|10 | 2025-13-03 | Shane | - | - |
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 
