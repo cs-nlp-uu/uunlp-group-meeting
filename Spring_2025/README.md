@@ -35,6 +35,18 @@ so that the audience can already familiarize themselves with the topic.
 |8 | 2025-27-02 | Eduardo | - | - |
 |9 | 2025-06-03 | Sophia?? | - | - |
 |10 | 2025-13-03 | Shane | - | - |
+|11 | 2025-20-03 | Denis | - | - |
+|12 | 2025-27-03 | Marijn | - | - |
+|13 | 2025-03-04 | Dong | - | - |
+|14 | 2025-10-04 | Yingjin | - | - |
+|15 | 2025-17-04 | Almila?? | - | - |
+|16 | 2025-24-04 | Ece?? | - | - |
+|17 | 2025-01-05 | Gerard?? | - | - |
+|18 | 2025-08-05 | Nan | - | - |
+|19 | 2025-15-05 | Hugh Mee | - | - |
+|20 | 2025-22-05 | Daniil | - | - |
+|21 | 2025-29-05 | Albert | - | - |
+
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 
