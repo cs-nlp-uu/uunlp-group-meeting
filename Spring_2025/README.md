@@ -32,8 +32,8 @@ so that the audience can already familiarize themselves with the topic.
 |5 | 2025-06-02 | Sanne Hoeken | [Hateful Word in Context Classification](https://aclanthology.org/2024.emnlp-main.10.pdf) | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_5/UU_presentation_jan2025.pdf) |
 |6 | 2025-13-02 | Anh | Probing for Ambiguity in Coreference | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_5/NLP-gr-13.02.pdf)|
 |7 | 2025-20-02 | Daniil | Image-grounded NLI updates | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_7/NLI_presentation.pdf) |
-|8 | 2025-27-02 | Eduardo | - | - |
-|9 | 2025-06-03 | Sophia?? | - | - |
+|8 | 2025-27-02 | ?? | - | - |
+|9 | 2025-06-03 | Massimo | - | - |
 |10 | 2025-13-03 | Shane | - | - |
 |11 | 2025-20-03 | Denis | - | - |
 |12 | 2025-27-03 | Marijn | - | - |
@@ -44,7 +44,7 @@ so that the audience can already familiarize themselves with the topic.
 |17 | 2025-01-05 | Gerard?? | - | - |
 |18 | 2025-08-05 | Nan | - | - |
 |19 | 2025-15-05 | Hugh Mee | - | - |
-|20 | 2025-22-05 | Massimo | - | - |
+|20 | 2025-22-05 | ?? | - | - |
 |21 | 2025-29-05 | Albert | - | - |
 
 
