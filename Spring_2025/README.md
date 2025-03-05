@@ -32,7 +32,7 @@ so that the audience can already familiarize themselves with the topic.
 |5 | 2025-06-02 | Sanne Hoeken | [Hateful Word in Context Classification](https://aclanthology.org/2024.emnlp-main.10.pdf) | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_5/UU_presentation_jan2025.pdf) |
 |6 | 2025-13-02 | Anh | Probing for Ambiguity in Coreference | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_5/NLP-gr-13.02.pdf)|
 |7 | 2025-20-02 | Daniil | Image-grounded NLI updates | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_7/NLI_presentation.pdf) |
-|8 | 2025-27-02 | - | Deep Seek + research round | - |
+|8 | 2025-27-02 | - | Deep Seek + research round | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_8/DSpres.pdf) |
 |9 | 2025-06-03 | Massimo | - | - |
 |10 | 2025-13-03 | Eduardo | - | - |
 |11 | 2025-20-03 | Shane | - | - |
