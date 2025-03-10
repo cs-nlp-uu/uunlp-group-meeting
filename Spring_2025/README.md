@@ -37,11 +37,11 @@ so that the audience can already familiarize themselves with the topic.
 |10 | 2025-13-03 | Eduardo | - | - |
 |11 | 2025-20-03 | Shane | - | - |
 |12 | 2025-27-03 | Denis | - | - |
-|13 | 2025-03-04 | Marijn | - | - |
-|14 | 2025-10-04 | Dong | - | - |
-|15 | 2025-17-04 | Yingjin | - | - |
-|16 | 2025-24-04 | Almila?? | - | - |
-|17 | 2025-01-05 | Ece?? | - | - |
+|13 | 2025-03-04 | Canceled: [3d NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-3-meeting) | - | - |
+|14 | 2025-10-04 | Marijn | - | - |
+|15 | 2025-17-04 | Dong | - | - |
+|16 | 2025-24-04 | Yingjin | - | - |
+|17 | 2025-01-05 | Almila?? | - | - |
 |18 | 2025-08-05 | Gerard?? | - | - |
 |19 | 2025-15-05 | Nan | - | - |
 |20 | 2025-22-05 | Hugh Mee | - | - |
@@ -49,20 +49,4 @@ so that the audience can already familiarize themselves with the topic.
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
-
-* Massimo
-* Anh
-* Eduardo
-* Sophia
-* Shane
-* Denis
-* Marijn
-* Dong
-* Yingjin
-* Almila
-* Ece
-* Gerard
-* Nan
-* Hugh Mee
-* Daniil
-* Albert
+TBD
