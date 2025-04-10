@@ -36,7 +36,7 @@ so that the audience can already familiarize themselves with the topic.
 |9 | 2025-06-03 | Massimo | Dagstuhl HLGIG | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_9/2024%20-Dagstuhl-HILGIG-Summary.pdf) |
 |10 | 2025-13-03 | Eduardo | UX Evaluation of NLP Interfaces (NAACL 2025) | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_10/Lessons_from_a_User_Experience_Evaluation_of_NLP_Interfaces__slides_.pdf) |
 |11 | 2025-20-03 | Shane | Progress report | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_11/march2025project.pdf) |
-|12 | 2025-27-03 | Yupei | Internship insights? | - |
+|12 | 2025-27-03 | Yupei | Rethinking memorization in implicit reasoning | [Google doc](https://docs.google.com/document/d/1JBCNvZqToMeLBi3lqrSjCRpJ_Ef3wG0gKu9I_JRlMPw/edit?usp=sharing) |
 |13 | 2025-03-04 | Canceled: [3d NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-3-meeting) | - | - |
 |14 | 2025-10-04 | Marijn | - | - |
 |15 | 2025-17-04 | Jens van der Weide | Measuring stereotypes in Dutch LLMs | - |
