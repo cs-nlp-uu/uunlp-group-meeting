@@ -41,7 +41,7 @@ so that the audience can already familiarize themselves with the topic.
 |14 | 2025-10-04 | Marijn | - | - |
 |15 | 2025-17-04 | Jens van der Weide | Measuring stereotypes in Dutch LLMs | - |
 |16 | 2025-24-04 | Yingjin | - | - |
-|17 | 2025-01-05 | Almila/Gerard?? | - | - |
+|17 | 2025-01-05 | Davide | Introduction talk | - |
 |18 | 2025-08-05 | Denis | - | - |
 |19 | 2025-15-05 | Nan | - | - |
 |20 | 2025-22-05 | Hugh Mee | - | - |
