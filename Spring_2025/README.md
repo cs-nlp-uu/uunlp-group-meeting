@@ -38,7 +38,7 @@ so that the audience can already familiarize themselves with the topic.
 |11 | 2025-20-03 | Shane | Progress report | [Slides](https://github.com/cs-nlp-uu/uunlp-group-meeting/blob/main/Spring_2025/week_11/march2025project.pdf) |
 |12 | 2025-27-03 | Yupei | Rethinking memorization in implicit reasoning | [Google doc](https://docs.google.com/document/d/1JBCNvZqToMeLBi3lqrSjCRpJ_Ef3wG0gKu9I_JRlMPw/edit?usp=sharing) |
 |13 | 2025-03-04 | Canceled: [3d NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-3-meeting) | - | - |
-|14 | 2025-10-04 | Marijn | - | - |
+|14 | 2025-10-04 | Marijn | Overview of thesis projects | [Slides](week_14/MS_overview_thesis_projects.pdf) |
 |15 | 2025-17-04 | Jens van der Weide | Measuring stereotypes in Dutch LLMs | - |
 |16 | 2025-24-04 | Yingjin | - | - |
 |17 | 2025-01-05 | Davide | Introduction talk | - |
