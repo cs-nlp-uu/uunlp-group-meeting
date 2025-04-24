@@ -40,7 +40,7 @@ so that the audience can already familiarize themselves with the topic.
 |13 | 2025-03-04 | Canceled: [3d NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-3-meeting) | - | - |
 |14 | 2025-10-04 | Marijn | Overview of thesis projects | [Slides](week_14/MS_overview_thesis_projects.pdf) |
 |15 | 2025-17-04 | Jens van der Weide | Measuring stereotypes in Dutch LLMs | - |
-|16 | 2025-24-04 | Yingjin | Demystifying Long Chain-of-Thought Reasoning in LLMs (Yeo et al. 2025) | [Slides] (https://drive.google.com/file/d/12C62qDeow3yCWi5BRbQUEVuf_5EQQgTS/view?usp=sharing) |
+|16 | 2025-24-04 | Yingjin | Demystifying Long Chain-of-Thought Reasoning in LLMs (Yeo et al. 2025) | [Slides](https://drive.google.com/file/d/12C62qDeow3yCWi5BRbQUEVuf_5EQQgTS/view?usp=sharing) |
 |17 | 2025-01-05 | Davide | Introduction talk | - |
 |18 | 2025-08-05 | Denis | - | - |
 |19 | 2025-15-05 | Nan | - | - |
