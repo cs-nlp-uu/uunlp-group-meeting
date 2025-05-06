@@ -42,10 +42,12 @@ so that the audience can already familiarize themselves with the topic.
 |15 | 2025-17-04 | Jens van der Weide | Measuring stereotypes in Dutch LLMs | - |
 |16 | 2025-24-04 | Yingjin | Demystifying Long Chain-of-Thought Reasoning in LLMs (Yeo et al., 2025) | [Slides](https://drive.google.com/file/d/12C62qDeow3yCWi5BRbQUEVuf_5EQQgTS/view?usp=sharing) |
 |17 | 2025-01-05 | Davide | Introduction talk | - |
-|18 | 2025-08-05 | Denis | - | - |
+|18 | 2025-08-05 | Org meeting | - | - |
 |19 | 2025-15-05 | Nan | - | - |
 |20 | 2025-22-05 | Hugh Mee | - | - |
-|21 | 2025-29-05 | Albert | - | - |
+|21 | 2025-29-05 | Elena Lloret | - | - |
+|22 | 2025-05-06 | Albert | - | - |
+|23 | 2025-12-06 | Iván | - | - |
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
