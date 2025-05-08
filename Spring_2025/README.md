@@ -45,9 +45,10 @@ so that the audience can already familiarize themselves with the topic.
 |18 | 2025-08-05 | Org meeting | - | - |
 |19 | 2025-15-05 | Nan | - | - |
 |20 | 2025-22-05 | Hugh Mee | - | - |
-|21 | 2025-29-05 | Elena Lloret | - | - |
+|21 | **2025-28-05** | Elena Lloret | - | **Moved to Wednesday** |
 |22 | 2025-05-06 | Albert | - | - |
-|23 | 2025-12-06 | Iván | - | - |
+|23 | 2025-12-06 | Canceled: [4th NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-4-meeting) | - | - |
+|24 | 2025-19-06 | Iván | - | - |
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
