@@ -49,6 +49,7 @@ so that the audience can already familiarize themselves with the topic.
 |22 | 2025-05-06 | Albert | - | - |
 |23 | 2025-12-06 | Canceled: [4th NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-4-meeting) | - | - |
 |24 | 2025-19-06 | Iván | - | - |
+|25 | 2025-26-06 | David | - | - |
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
