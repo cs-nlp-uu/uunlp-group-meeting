@@ -43,7 +43,7 @@ so that the audience can already familiarize themselves with the topic.
 |16 | 2025-24-04 | Yingjin | Demystifying Long Chain-of-Thought Reasoning in LLMs (Yeo et al., 2025) | [Slides](https://drive.google.com/file/d/12C62qDeow3yCWi5BRbQUEVuf_5EQQgTS/view?usp=sharing) |
 |17 | 2025-01-05 | Davide | Introduction talk | - |
 |18 | 2025-08-05 | Org meeting | - | - |
-|19 | 2025-15-05 | Nan | - | - |
+|19 | 2025-15-05 | Nan | Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation (Ma et al., 2025) | [paper](https://arxiv.org/abs/2504.16060) [slides](https://drive.google.com/file/d/1Z6F5sgw8N8cs0ExF8tab4XZJbva18UI4/view?usp=sharing) |
 |20 | 2025-22-05 | Hugh Mee | - | - |
 |21 | **2025-28-05** | Elena Lloret | - | **Moved to Wednesday** |
 |22 | 2025-05-06 | Albert | - | - |
