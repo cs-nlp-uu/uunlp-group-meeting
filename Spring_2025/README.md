@@ -50,6 +50,9 @@ so that the audience can already familiarize themselves with the topic.
 |23 | 2025-12-06 | Canceled: [4th NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-4-meeting) | - | - |
 |24 | 2025-19-06 | Iván | - | - |
 |25 | 2025-26-06 | David | - | - |
+|26 | 2025-03-07 | TBD | - | - |
+|27 | 2025-10-07 | TBD | - | - |
+|28 | 2025-17-07 | Daniil | Talk rehearsal | - |
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
