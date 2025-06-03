@@ -45,7 +45,7 @@ so that the audience can already familiarize themselves with the topic.
 |18 | 2025-08-05 | Org meeting | - | - |
 |19 | 2025-15-05 | Nan | Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation (Ma et al., 2025) | [paper](https://arxiv.org/abs/2504.16060) [slides](week_21/2025_elloretPPT_UTRECTH.pdf) |
 |20 | 2025-22-05 | Denis | - | - |
-|21 | **2025-28-05** | Elena Lloret | - | **Moved to Wednesday** | [slides](https://drive.google.com/file/d/1Z6F5sgw8N8cs0ExF8tab4XZJbva18UI4/view?usp=sharing) |
+|21 | **2025-28-05** | Elena Lloret | NLP at GPSLI | [slides](https://drive.google.com/file/d/1Z6F5sgw8N8cs0ExF8tab4XZJbva18UI4/view?usp=sharing) |
 |22 | 2025-05-06 | Albert | - | - |
 |23 | 2025-12-06 | Canceled: [4th NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-4-meeting) | - | - |
 |24 | 2025-19-06 | Iván | - | - |
