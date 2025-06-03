@@ -43,9 +43,9 @@ so that the audience can already familiarize themselves with the topic.
 |16 | 2025-24-04 | Yingjin | Demystifying Long Chain-of-Thought Reasoning in LLMs (Yeo et al., 2025) | [Slides](https://drive.google.com/file/d/12C62qDeow3yCWi5BRbQUEVuf_5EQQgTS/view?usp=sharing) |
 |17 | 2025-01-05 | Davide | Introduction talk | [Slides](week_17/MAIA_BenchmarkingVLMs_NLPMeeting.pdf) |
 |18 | 2025-08-05 | Org meeting | - | - |
-|19 | 2025-15-05 | Nan | Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation (Ma et al., 2025) | [paper](https://arxiv.org/abs/2504.16060) [slides](https://drive.google.com/file/d/1Z6F5sgw8N8cs0ExF8tab4XZJbva18UI4/view?usp=sharing) |
+|19 | 2025-15-05 | Nan | Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation (Ma et al., 2025) | [paper](https://arxiv.org/abs/2504.16060) [slides](week_21/2025_elloretPPT_UTRECTH.pdf) |
 |20 | 2025-22-05 | Denis | - | - |
-|21 | **2025-28-05** | Elena Lloret | - | **Moved to Wednesday** |
+|21 | **2025-28-05** | Elena Lloret | - | **Moved to Wednesday** | [slides](https://drive.google.com/file/d/1Z6F5sgw8N8cs0ExF8tab4XZJbva18UI4/view?usp=sharing) |
 |22 | 2025-05-06 | Albert | - | - |
 |23 | 2025-12-06 | Canceled: [4th NLP@U seminar](https://www.uu.nl/en/events/nlpu-period-4-meeting) | - | - |
 |24 | 2025-19-06 | Iván | - | - |
