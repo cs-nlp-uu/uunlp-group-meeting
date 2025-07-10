@@ -51,8 +51,8 @@ so that the audience can already familiarize themselves with the topic.
 |24 | 2025-19-06 | Canceled: NLG in the Lowlands | - | - |
 |25 | 2025-26-06 | Iván | Commonsense benchmark | [slides](week_25/presentacionuu__2_.pdf) |
 |26 | 2025-03-07 | David | Optimising Conversational Search Response Strategies  | [slides](week_26/NLP-Group_June_2025_David.pdf) |
-|27 | 2025-10-07 | Daniil | Talk rehearsal | - |
-|28 | 2025-17-07 | TBD | TBD | - |
+|27 | 2025-10-07 | Daniil | Current project | - |
+|28 | 2025-17-07 | Max Schaffelder | Exploring model collapse in LLMs | - |
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
