@@ -23,28 +23,27 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-||||||
+| 1 | 18.09 | Hugh Mee |||
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
-Anna
-Yingjin
-Elize
-David
-Shane
-Albert
-Daniil
-Anh
-Dong
-Hugh Mee
-Tao
-Nan
-Shane
-Daniil
-Tao
-Hugh Mee
-Anh
-Nan
-Yingjin
-Massimo
-Marijn
+* Yingjin
+* Albert
+* Tao
+* Shane
+* Dong
+* Nan
+* Daniil
+* Marijn
+* Anh
+* Tao
+* Daniil
+* Anna
+* Elize
+* Shane
+* Nan
+* Yingjin
+* David
+* Anh
+* Massimo
+* Hugh Mee
