@@ -24,6 +24,9 @@ so that the audience can already familiarize themselves with the topic.
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
 | 1 | 18.09 | Hugh Mee |||
+| 2 | 25.09 | Cancelled: NLP@U seminar |||
+| 3 | 02.10 | Cancelled: Workshop |||
+| 4 | 09.10 | TBD |||
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
