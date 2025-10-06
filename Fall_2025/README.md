@@ -6,8 +6,7 @@ Time: **11:00-12:00, Thursday**
 
 We welcome different types of presentations relevant to NLP, including but not limited to:
 - Original (ongoing or published) work from group members
-- Interesting published papers, hopefully from top-tier conferences or journals
-  (e.g. ACL, EMNLP, NAACL, TACL, EACL, ICLR, ICML, NeurIPS, etc.)
+- Interesting published papers
 - Overviews of interesting topics
   (e.g., trends in vision-language pre-training, techniques for efficient training of models, etc.)
 
