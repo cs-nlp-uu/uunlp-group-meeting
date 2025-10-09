@@ -40,7 +40,7 @@ so that the audience can already familiarize themselves with the topic.
 * Daniil
 * Marijn
 * Anh
-* Tao
+* Hugh Mee
 * Daniil
 * Anna
 * Elize
@@ -50,4 +50,4 @@ so that the audience can already familiarize themselves with the topic.
 * David
 * Anh
 * Massimo
-* Hugh Mee
+* Tao
