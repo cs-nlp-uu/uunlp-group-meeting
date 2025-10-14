@@ -28,7 +28,8 @@ so that the audience can already familiarize themselves with the topic.
 | 3 | 02.10 | Cancelled: Workshop |||
 | 4 | 09.10 | Menan | Introduction talk ||
 | 5 | 16.10 | Yingjin | TBA ||
-
+| 6 | 23.10 | Mădălina | TBA ||
+| 7 | 30.10 | Albert? | TBA ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 * Yingjin
