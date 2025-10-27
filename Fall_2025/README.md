@@ -27,15 +27,16 @@ so that the audience can already familiarize themselves with the topic.
 | 2 | 25.09 | Cancelled: NLP@U seminar |||
 | 3 | 02.10 | Cancelled: Workshop |||
 | 4 | 09.10 | Menan | Introduction talk ||
-| 5 | 16.10 | Yingjin | TBA ||
-| 6 | 23.10 | Mădălina | TBA ||
-| 7 | 30.10 | Albert? | TBA ||
+| 5 | 16.10 | Yingjin | Interpretability ||
+| 6 | 23.10 | Mădălina | NLI: minimal edits ||
+| 7 | 30.10 | Albert | TBA ||
+| 8 | 6.11 | Tao | TBA ||
+| 9 | 13.11 | Dong? | TBA ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 * Yingjin
 * Albert
 * Tao
-* Shane
 * Dong
 * Nan
 * Daniil
