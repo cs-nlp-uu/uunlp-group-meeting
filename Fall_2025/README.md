@@ -26,9 +26,9 @@ so that the audience can already familiarize themselves with the topic.
 | 1 | 18.09 | Hugh Mee |||
 | 2 | 25.09 | Cancelled: NLP@U seminar |||
 | 3 | 02.10 | Cancelled: Workshop |||
-| 4 | 09.10 | Menan | Introduction talk ||
-| 5 | 16.10 | Yingjin | Interpretability ||
-| 6 | 23.10 | Mădălina | NLI: minimal edits ||
+| 4 | 09.10 | Menan | Introduction talk | [Slides](week_4/paper_id_22.pdf) |
+| 5 | 16.10 | Yingjin | Interpretability | [Slides](week_5/group_meeting.pdf) |
+| 6 | 23.10 | Mădălina | NLI: minimal edits | [Slides](week_6/MERGE_nlp_group_2025-1.pdf) |
 | 7 | 30.10 | Albert | TBA ||
 | 8 | 6.11 | Tao | TBA ||
 | 9 | 13.11 | Dong? | TBA ||
