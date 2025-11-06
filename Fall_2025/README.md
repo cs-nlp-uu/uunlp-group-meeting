@@ -30,7 +30,7 @@ so that the audience can already familiarize themselves with the topic.
 | 5 | 16.10 | Yingjin | Interpretability | [Slides](week_5/group_meeting.pdf) |
 | 6 | 23.10 | Mădălina | NLI: minimal edits | [Slides](week_6/MERGE_nlp_group_2025-1.pdf) |
 | 7 | 30.10 | Albert | Org updates ||
-| 8 | 6.11 | Tao | TBA ||
+| 8 | 6.11 | Tao | Synthetic Data | [Paper](https://arxiv.org/abs/2505.22830) [Slides](week_8/SyntheticData_Tao_06112025.pdf) |
 | 9 | 13.11 | Anna Wegmann | TBA ||
 | 10 | 20.11 | Soheila Amiri | TBA ||
 | 11 | 27.11 | Nan Li? | TBA ||
