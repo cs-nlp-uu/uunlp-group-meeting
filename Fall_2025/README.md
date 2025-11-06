@@ -31,21 +31,25 @@ so that the audience can already familiarize themselves with the topic.
 | 6 | 23.10 | Mădălina | NLI: minimal edits | [Slides](week_6/MERGE_nlp_group_2025-1.pdf) |
 | 7 | 30.10 | Albert | Org updates ||
 | 8 | 6.11 | Tao | TBA ||
-| 9 | 13.11 | Soheila Amiri | TBA ||
+| 9 | 13.11 | Anna Wegmann | TBA ||
+| 10 | 20.11 | Soheila Amiri | TBA ||
+| 11 | 27.11 | Nan Li? | TBA ||
+| 12 | 04.12 | Bharathi Raja Chakravarthi | TBA ||
+| 13 | 11.12 | Marijn/Daniil? | TBA ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 * Yingjin
 * Albert
 * Tao
+* Anna
 * Soheila
 * Nan
-* Daniil
 * Dong
+* Daniil
 * Marijn
 * Anh
 * Hugh Mee
 * Daniil
-* Anna
 * Elize
 * Shane
 * Nan
