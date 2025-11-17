@@ -33,9 +33,10 @@ so that the audience can already familiarize themselves with the topic.
 | 8 | 6.11 | Tao | Synthetic Data | [Paper](https://arxiv.org/abs/2505.22830) [Slides](week_8/SyntheticData_Tao_06112025.pdf) |
 | 9 | 13.11 | Anna Wegmann | TBA ||
 | 10 | 20.11 | Soheila Amiri | TBA ||
-| 11 | 27.11 | Nan Li? | TBA ||
+| 11 | 27.11 | Daniil | TBA ||
 | 12 | 04.12 | Bharathi Raja Chakravarthi | TBA ||
-| 13 | 11.12 | Marijn/Daniil? | TBA ||
+| 13 | 11.12 | Marijn | TBA ||
+| 14 | 18.12 | Nan Li | TBA ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 * Yingjin
