@@ -35,8 +35,8 @@ so that the audience can already familiarize themselves with the topic.
 | 10 | 20.11 | Soheila Amiri | TBA ||
 | 11 | 27.11 | Daniil | TBA ||
 | 12 | 04.12 | Bharathi Raja Chakravarthi | TBA ||
-| 13 | 11.12 | Marijn | TBA ||
-| 14 | 18.12 | Nan Li | TBA ||
+| 13 | 11.12 | Nan | TBA ||
+| 14 | 18.12 | Marijn and Hugh Mee | TBA ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
 * Yingjin
