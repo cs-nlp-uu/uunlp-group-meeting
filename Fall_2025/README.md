@@ -33,7 +33,7 @@ so that the audience can already familiarize themselves with the topic.
 | 8 | 6.11 | Tao | Synthetic Data | [Paper](https://arxiv.org/abs/2505.22830) [Slides](week_8/SyntheticData_Tao_06112025.pdf) |
 | 9 | 13.11 | Anna Wegmann | TBA ||
 | 10 | 20.11 | Soheila Amiri | TBA ||
-| 11 | 27.11 | Daniil | TBA ||
+| 11 | 27.11 | Daniil | arXiv:2510.26622 | [Slides](week_11/presentation_ret.pdf) |
 | 12 | 04.12 | Bharathi Raja Chakravarthi | TBA ||
 | 13 | 11.12 | Nan | TBA ||
 | 14 | 18.12 | Marijn and Hugh Mee | TBA ||
