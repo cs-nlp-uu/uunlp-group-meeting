@@ -35,7 +35,7 @@ so that the audience can already familiarize themselves with the topic.
 | 10 | 20.11 | Soheila Amiri | Temporal vs causal: VLLMs | [Slides](week_10/Presentation.pdf) |
 | 11 | 27.11 | Daniil | arXiv:2510.26622 | [Slides](week_11/presentation_ret.pdf) |
 | 12 | 04.12 | Bharathi Raja Chakravarthi | TBA ||
-| 13 | 11.12 | Nan | TBA ||
+| 13 | 11.12 | Nan | Limits of RLVR | [arXiv](https://arxiv.org/abs/2504.13837) [Slides](https://docs.google.com/presentation/d/1EpxZ5ESfWcXroPnYp8EcUav4T6MzawmE6KGB41G96PE/edit?usp=sharing) |
 | 14 | 18.12 | Marijn and Hugh Mee | TBA ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev@uu.nl)
