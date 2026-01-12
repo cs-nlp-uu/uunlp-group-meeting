@@ -25,11 +25,11 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1 | 2025-08-01 | Updates+research round | - | - |
-
-
+|1 | 08-01-2025 | Updates+research round | - | - |
+|2 | 15-01-2025 | Esther Ploeger | Introduction talk | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
+* ~~Esther~~
 * Anh
 * Daniil
 * Elize
