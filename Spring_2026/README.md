@@ -25,8 +25,10 @@ so that the audience can already familiarize themselves with the topic.
 
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
-|1 | 08-01-2025 | Updates+research round | - | - |
-|2 | 15-01-2025 | Esther Ploeger | Introduction talk | - |
+|1 | 08-01-2026 | Updates+research round | - | - |
+|2 | 15-01-2026 | Esther Ploeger | Introduction talk | - |
+| ... | | | | |
+| 7 | 19-02-2026 | Marijn Schraagen | Quantitative analysis of physiological signals and reading behavior in low-literate participants | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
 * ~~Esther~~
