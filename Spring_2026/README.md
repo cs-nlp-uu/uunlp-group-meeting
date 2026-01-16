@@ -27,6 +27,9 @@ so that the audience can already familiarize themselves with the topic.
 | ---- | ----- | --------- | --------- | --------- |
 |1 | 08-01-2026 | Updates+research round | - | - |
 |2 | 15-01-2026 | Esther Ploeger | Introduction talk | - |
+|3 | 22-01-2026 | Daniil | ? | - |
+|4 | 29-01-2026 | Anh | - | - |
+|5 | 05-02-2026 | Amirhossein? | - | - |
 | ... | | | | |
 | 7 | 19-02-2026 | Marijn Schraagen | Quantitative analysis of physiological signals and reading behavior in low-literate participants | - |
 
