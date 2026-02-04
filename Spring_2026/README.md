@@ -39,8 +39,9 @@ so that the audience can already familiarize themselves with the topic.
 * ~~Daniil~~
 * Elize
 * Nan
-* Yingjin?
 * David
 * Anh
 * Massimo
 * Tao
+* ...
+* Yingjin (unavailable)
