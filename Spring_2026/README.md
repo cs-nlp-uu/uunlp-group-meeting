@@ -30,7 +30,7 @@ so that the audience can already familiarize themselves with the topic.
 |3 | 22-01-2026 | Daniil | SLOR vs MORCELA | [slides](./week_3/presentation_januar-1.pdf) |
 |4 | 29-01-2026 | Canceled: [NLP @ U](https://utrechtnlphub.sites.uu.nl/2025/11/06/nlpu-period-2-meeting/) | - | - |
 |5 | 05-02-2026 | Anh | ? | - |
-|6 | 12-02-2026 | Amirhossein | ? | |
+|6 | 12-02-2026 | Amirhossein | Recovering Information from ‘Impossible’ Languages with LLMs | [slides](./week_6/Mission_Accomplished_presentation.pdf) |
 |7 | 19-02-2026 | Marijn Schraagen | Quantitative analysis of physiological signals and reading behavior in low-literate participants | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
