@@ -32,10 +32,12 @@ so that the audience can already familiarize themselves with the topic.
 |5 | 05-02-2026 | Anh | ? | - |
 |6 | 12-02-2026 | Amirhossein | Recovering Information from ‘Impossible’ Languages with LLMs | [slides](./week_6/Mission_Accomplished_presentation.pdf) |
 |7 | 19-02-2026 | Marijn Schraagen | Quantitative analysis of physiological signals and reading behavior in low-literate participants | - |
+|8 | 26-02-2026 | Agentic workflows? | - | - |
+|9 | 05-03-2026 | Elize | - | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
 * ~~Esther~~
-* Anh
+* ~~Anh~~
 * ~~Daniil~~
 * Elize
 * Nan
