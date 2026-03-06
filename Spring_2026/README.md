@@ -34,16 +34,17 @@ so that the audience can already familiarize themselves with the topic.
 |7 | 19-02-2026 | Marijn Schraagen | Quantitative analysis of physiological signals and reading behavior in low-literate participants | - |
 |8 | 26-02-2026 | Agentic workflows | - | - |
 |9 | 05-03-2026 | Elize | - | - |
-|10 | 12-03-2026 | Nan? | - | - |
+|10 | 12-03-2026 | Nan | - | - |
 |11 | 19-03-2026 | David | - | - |
+|... | 09-04-2026 | Guest speaker | - | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
 * ~~Esther~~
 * ~~Anh~~
 * ~~Daniil~~
 * ~~Elize~~
-* Nan
-* David
+* ~~Nan~~
+* ~~David~~
 * Anh
 * Massimo
 * Tao
