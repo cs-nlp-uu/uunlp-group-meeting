@@ -35,7 +35,7 @@ so that the audience can already familiarize themselves with the topic.
 |8 | 26-02-2026 | Agentic workflows | - | - |
 |9 | 05-03-2026 | Elize | - | - |
 |10 | 12-03-2026 | Nan | Evaluating (V)LLMs' Perspective-taking Ability in Dialogue | - |
-|11 | 19-03-2026 | David | - | - |
+|11 | 19-03-2026 | David | Optimising Response Strategies for AI Conversational Search Assistants | [slides](./week_11/Optimising_Response_Strategies_for_AI_Conversational_Search_Assistants_March-19.pdf) |
 |... | 09-04-2026 | Guest speaker | - | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
