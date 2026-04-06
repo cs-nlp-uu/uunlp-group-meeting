@@ -37,7 +37,7 @@ so that the audience can already familiarize themselves with the topic.
 |10 | 12-03-2026 | Nan | Evaluating (V)LLMs' Perspective-taking Ability in Dialogue | - |
 |11 | 19-03-2026 | David | Optimising Response Strategies for AI Conversational Search Assistants | [slides](./week_11/Optimising_Response_Strategies_for_AI_Conversational_Search_Assistants_March-19.pdf) |
 |12 | 26-03-2026 | Updates + research round | - | - |
-|13 | 02-04-2026 | Anh | Humans and transformer LMs:Abstraction drives language learning | [slides](./Week 14/NLP gr 31-03.pdf)|
+|13 | 02-04-2026 | Anh | Humans and transformer LMs:Abstraction drives language learning | [slides](Spring_2026/Week 14/NLP gr 31-03.pdf)|
 |14 | 09-04-2026 | Guest speaker | - | - |
 |15 | 16-04-2026 | Anna | - | - |
 
