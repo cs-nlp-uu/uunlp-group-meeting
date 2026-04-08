@@ -29,9 +29,9 @@ so that the audience can already familiarize themselves with the topic.
 |2 | 15-01-2026 | Esther Ploeger | Introduction talk | - |
 |3 | 22-01-2026 | Daniil | SLOR vs MORCELA | [slides](./week_3/presentation_januar-1.pdf) |
 |4 | 29-01-2026 | Canceled: [NLP @ U](https://utrechtnlphub.sites.uu.nl/2025/11/06/nlpu-period-2-meeting/) | - | - |
-|5 | 05-02-2026 | Anh | Representations of Plurality in LLM | [slides](Spring_2026/week_5/NLP gr Feb.pdf) |
+|5 | 05-02-2026 | Anh | Representations of Plurality in LLM | [slides](<./week_5/NLP gr Feb.pdf>) |
 |6 | 12-02-2026 | Amirhossein | Recovering Information from ‘Impossible’ Languages with LLMs | [slides](./week_6/Mission_Accomplished_presentation.pdf) |
-|7 | 19-02-2026 | Marijn Schraagen | Quantitative analysis of physiological signals and reading behavior in low-literate participants | - |
+|7 | 19-02-2026 | Marijn Schraagen | Quantitative analysis of physiological signals and reading behavior in low-literate participants | [slides](week_7/MS_siks_course_2026.pdf) (extended version of slides presented at SIKS) |
 |8 | 26-02-2026 | Agentic workflows | - | - |
 |9 | 05-03-2026 | Elize | - | - |
 |10 | 12-03-2026 | Nan | Evaluating (V)LLMs' Perspective-taking Ability in Dialogue | - |
