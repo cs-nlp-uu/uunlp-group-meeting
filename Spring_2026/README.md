@@ -40,6 +40,7 @@ so that the audience can already familiarize themselves with the topic.
 |13 | 02-04-2026 | Anh | Humans and transformer LMs: Abstraction drives language learning | [slides](./Week 14/NLP gr 31-03.pdf)|
 |14 | 09-04-2026 | Guest speaker | - | - |
 |15 | 16-04-2026 | Anna | - | - |
+| ... | 11-06-2026 | Eduardo | Mock Defense | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
 * ~~Esther~~
