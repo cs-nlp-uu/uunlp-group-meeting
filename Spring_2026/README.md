@@ -38,8 +38,11 @@ so that the audience can already familiarize themselves with the topic.
 |11 | 19-03-2026 | David | Optimising Response Strategies for AI Conversational Search Assistants | [slides](./week_11/Optimising_Response_Strategies_for_AI_Conversational_Search_Assistants_March-19.pdf) |
 |12 | 26-03-2026 | Updates + research round | - | - |
 |13 | 02-04-2026 | Anh | Humans and transformer LMs: Abstraction drives language learning | [slides](<./Week 14/NLP gr 31-03.pdf>)|
-|14 | 09-04-2026 | Guest speaker | - | - |
+|14 | 09-04-2026 | Clara Meister (ETH) | Unigram tokenization | - |
 |15 | 16-04-2026 | Anna | - | - |
+|16 | 23-04-2026 | - | - | - |
+|17 | 30-04-2026 | - | - | - |
+|18 | 07-05-2026 | Maria Mouratidi? | - | - |
 | ... | 11-06-2026 | Eduardo | Mock Defense | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
