@@ -40,9 +40,11 @@ so that the audience can already familiarize themselves with the topic.
 |13 | 02-04-2026 | Anh | Humans and transformer LMs: Abstraction drives language learning | [slides](<./Week 14/NLP gr 31-03.pdf>)|
 |14 | 09-04-2026 | Clara Meister (ETH) | Unigram tokenization | - |
 |15 | 16-04-2026 | Anna | - | - |
-|16 | 23-04-2026 | - | - | - |
+|16 | 23-04-2026 | Yingjin | - | - |
 |17 | 30-04-2026 | - | - | - |
-|18 | 07-05-2026 | Maria Mouratidi? | - | - |
+|18 | 07-05-2026 | Canceled: [NLP @ U](https://www.uu.nl/en/events/nlpu-period-3-meeting-1) | - | - |
+|19 | 14-05-2026 | Maria Mouratidi? / Tao? | - | - |
+| ... | 28-05-2026 | Xiao Zhang | Topics in semantic parsing | - |
 | ... | 11-06-2026 | Eduardo | Mock Defense | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
@@ -53,7 +55,8 @@ so that the audience can already familiarize themselves with the topic.
 * ~~Nan~~
 * ~~David~~
 * ~~Anh~~
+* ~~Yingjin~~
 * Massimo
 * Tao
 * ...
-* Yingjin (unavailable)
+
