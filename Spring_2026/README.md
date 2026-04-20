@@ -43,8 +43,9 @@ so that the audience can already familiarize themselves with the topic.
 |16 | 23-04-2026 | Yingjin | - | - |
 |17 | 30-04-2026 | - | - | - |
 |18 | 07-05-2026 | Canceled: [NLP @ U](https://www.uu.nl/en/events/nlpu-period-3-meeting-1) | - | - |
-|19 | 14-05-2026 | Maria Mouratidi? / Tao? | - | - |
-| ... | 28-05-2026 | Xiao Zhang | Topics in semantic parsing | - |
+|19 | 14-05-2026 | Maria Mouratidi | Transformer vs human attention | - |
+|20 | 21-05-2026 | Tao | - | - |
+|21 | 28-05-2026 | Xiao Zhang | Topics in semantic parsing | - |
 | ... | 11-06-2026 | Eduardo | Mock Defense | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
