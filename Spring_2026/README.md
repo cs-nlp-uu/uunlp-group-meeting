@@ -40,8 +40,8 @@ so that the audience can already familiarize themselves with the topic.
 |13 | 02-04-2026 | Anh | Humans and transformer LMs: Abstraction drives language learning | [slides](<./Week 14/NLP gr 31-03.pdf>)|
 |14 | 09-04-2026 | Clara Meister (ETH) | Unigram tokenization | - |
 |15 | 16-04-2026 | Anna | - | - |
-|16 | 23-04-2026 | Yingjin | - | - |
-|17 | 30-04-2026 | - | - | - |
+|16 | 23-04-2026 | Hedwig Oldenhof | - | - |
+|17 | 30-04-2026 | Yingjin | - | - |
 |18 | 07-05-2026 | Canceled: [NLP @ U](https://www.uu.nl/en/events/nlpu-period-3-meeting-1) | - | - |
 |19 | 14-05-2026 | Maria Mouratidi | Transformer vs human attention | - |
 |20 | 21-05-2026 | Tao | - | - |
