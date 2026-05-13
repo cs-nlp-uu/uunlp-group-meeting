@@ -43,8 +43,8 @@ so that the audience can already familiarize themselves with the topic.
 |16 | 23-04-2026 | Hedwig Oldenhof | - | - |
 |17 | 30-04-2026 | Yingjin | - | - |
 |18 | 07-05-2026 | Canceled: [NLP @ U](https://www.uu.nl/en/events/nlpu-period-3-meeting-1) | - | - |
-|19 | 14-05-2026 | Maria Mouratidi | Transformer vs human attention | - |
-|20 | 21-05-2026 | Tao | - | - |
+|19 | 14-05-2026 | Canceled: pulbic holiday | - | - |
+|20 | 21-05-2026 | Double session: Maria Mouratidi, Tao | - | - |
 |21 | 28-05-2026 | Xiao Zhang | Topics in semantic parsing | - |
 |22 | 04-06-2026 | - | - | - |
 |23 | 11-06-2026 | Eduardo | Mock Defense | - |
