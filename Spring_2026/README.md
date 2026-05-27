@@ -49,6 +49,7 @@ so that the audience can already familiarize themselves with the topic.
 |22 | 04-06-2026 | - | - | - |
 |23 | 11-06-2026 | Eduardo | Mock Defense | - |
 |24 | 18-06-2026 | Menan | Datadivers, package testing | - |
+|25 | 25-06-2026 | Giovanni Varricchione | TBA | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
 * ~~Esther~~
@@ -59,7 +60,7 @@ so that the audience can already familiarize themselves with the topic.
 * ~~David~~
 * ~~Anh~~
 * ~~Yingjin~~
-* Massimo
-* Tao
+* ~~Massimo~~
+* ~~Tao~~
 * ...
 
