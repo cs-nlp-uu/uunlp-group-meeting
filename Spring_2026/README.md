@@ -46,7 +46,7 @@ so that the audience can already familiarize themselves with the topic.
 |19 | 14-05-2026 | Canceled: pulbic holiday | - | - |
 |20 | 21-05-2026 | Double session: Maria Mouratidi, Tao | - | - |
 |21 | 28-05-2026 | Xiao Zhang | Topics in semantic parsing | - |
-|22 | 04-06-2026 | - | - | - |
+|22 | 04-06-2026 | Albert | - | - |
 |23 | 11-06-2026 | Eduardo | Mock Defense | - |
 |24 | 18-06-2026 | Menan | Datadivers, package testing | - |
 |25 | 25-06-2026 | Giovanni Varricchione | TBA | - |
