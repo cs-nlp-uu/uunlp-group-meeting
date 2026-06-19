@@ -49,7 +49,8 @@ so that the audience can already familiarize themselves with the topic.
 |22 | 04-06-2026 | Albert | - | - |
 |23 | 11-06-2026 | Eduardo | Mock Defense | - |
 |24 | 18-06-2026 | Menan | Datadivers, package testing | - |
-|25 | 25-06-2026 | Giovanni Varricchione | TBA | - |
+|25 | 25-06-2026 | Giovanni Varricchione | Logic and automata in reinforcement learning (RL) | - |
+|26 | 02-07-2026 | Canceled: [NLP @ U](https://www.uu.nl/en/events/nlpu-period-4-meeting-0) | TBA | - |
 
 ### Random order (migrated from Fall 2025; for requests, contact d.ignatev@uu.nl)
 * ~~Esther~~
