@@ -24,7 +24,7 @@ so that the audience can already familiarize themselves with the topic.
 | Week | Date | Presenter | Topic | Materials |
 | ---- | ----- | --------- | --------- | --------- |
 | 1 | 03.09 | Research round |||
-| 2 | 10.09 | Marijn | ? ||
+| 2 | 10.09 | Marijn | Eye-tracking during safety instructions | [Slides](week_01/eyetracking_mri.pdf) |
 | 3 | 17.09 | Hongyu Chen | ? ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
