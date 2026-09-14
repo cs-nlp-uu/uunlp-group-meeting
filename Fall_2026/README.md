@@ -28,4 +28,24 @@ so that the audience can already familiarize themselves with the topic.
 | 3 | 17.09 | Hongyu Chen | ? ||
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
-TBD
+Anna
+Yingjin
+Esther
+Elize
+Menan
+Albert
+Daniil
+Tao
+David
+Nan
+Hugh Mee
+Anh
+Menan
+Daniil
+Hugh Mee
+Nan
+Tao
+Anh
+Yingjin
+Marijn
+Dong
