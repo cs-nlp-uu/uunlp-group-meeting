@@ -29,10 +29,10 @@ so that the audience can already familiarize themselves with the topic.
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
 * Anna
-* Yingjin
+* Menan
 * Esther
 * Elize
-* Menan
+* Yingjin
 * Albert
 * Daniil
 * Tao
