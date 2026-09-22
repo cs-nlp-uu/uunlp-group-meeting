@@ -25,7 +25,7 @@ so that the audience can already familiarize themselves with the topic.
 | ---- | ----- | --------- | --------- | --------- |
 | 1 | 03.09 | Research round |||
 | 2 | 10.09 | Marijn | Eye-tracking during safety instructions | [Slides](week_01/eyetracking_mri.pdf) |
-| 3 | 17.09 | Hongyu Chen | ? ||
+| 3 | 17.09 | Hongyu Chen | Gendered style transfer | [Slides](week_02/Hongyu_Talk.pdf) |
 | 4 | 24.09 | Esther | ? ||
 | 5 | 01.10 | Menan | ? ||
 | 6 | 08.10 | Anna | ? ||
