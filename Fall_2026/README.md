@@ -29,6 +29,11 @@ so that the audience can already familiarize themselves with the topic.
 | 4 | 24.09 | Esther | Diversity in machine translation benchmarks | [CLASSIFIED] |
 | 5 | 01.10 | Menan | ? ||
 | 6 | 08.10 | Anna | ? ||
+| 7 | 15.10 | Elize | ? ||
+| 8 | 22.10 | Guanyi | ? ||
+| 9 | 29.10 | Yingjin | ? ||
+| 10 | 05.11 | Albert | ? ||
+
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
 * Esther
