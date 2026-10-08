@@ -32,7 +32,7 @@ so that the audience can already familiarize themselves with the topic.
 | 7 | 15.10 | Research report discussion | - ||
 | 8 | 22.10 | Guanyi | ? ||
 | 9 | 29.10 | **CANCELED** | ? ||
-| 10 | 05.11 | Yingjin | ? ||
+| 10 | 05.11 | Elize/Yingjin | ? ||
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
