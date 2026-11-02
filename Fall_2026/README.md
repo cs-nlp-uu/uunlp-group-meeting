@@ -27,7 +27,7 @@ so that the audience can already familiarize themselves with the topic.
 | 2 | 10.09 | Marijn | Eye-tracking during safety instructions | [Slides](week_01/eyetracking_mri.pdf) |
 | 3 | 17.09 | Hongyu Chen | Gendered style transfer | [Slides](week_02/Hongyu_Talk.pdf) |
 | 4 | 24.09 | Esther | Diversity in machine translation benchmarks | [CLASSIFIED] |
-| 5 | 01.10 | Menan | ? ||
+| 5 | 01.10 | Menan | Knowing an Answer vs. Knowing the Answer: How Data Diversity Shapes Factual Knowledge Acquisition||
 | 6 | 08.10 | Anna | ? ||
 | 7 | 15.10 | Research report discussion | - ||
 | 8 | 22.10 | Guanyi | ? ||
