@@ -35,14 +35,12 @@ so that the audience can already familiarize themselves with the topic.
 | 10 | 05.11 | Yingjin | ? ||
 | 11 | 12.11 | Elize | ? ||
 | 12 | 19.11 | Lasha | [Paper](https://aclanthology.org/2026.akbc-1.22/) ||
+| 13 | 26.11 | Albert | ? ||
+| 14 | 03.12 | Daniil | ? ||
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
-* Esther
-* Menan
-* Anna
 * Elize
-* Yingjin
 * Albert
 * Daniil
 * Tao
