@@ -35,7 +35,7 @@ so that the audience can already familiarize themselves with the topic.
 | 10 | 05.11 | Yingjin | ? ||
 | 11 | 12.11 | Elize | ? ||
 | 12 | 19.11 | Lasha | [Paper](https://aclanthology.org/2026.akbc-1.22/) | [Slides](week_12/NLI-LEX.CS-NLP-UU-RG%20.pdf) |
-| 13 | 26.11 | Albert | ? ||
+| 13 | 26.11 | Yuxuan Wang | ? ||
 | 14 | 03.12 | Daniil | ? ||
 | 15 | 10.12 | Tao/Lucia? | ? ||
 | 16 | 17.12 | David? | ? ||
