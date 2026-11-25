@@ -37,10 +37,11 @@ so that the audience can already familiarize themselves with the topic.
 | 12 | 19.11 | Lasha | [Paper](https://aclanthology.org/2026.akbc-1.22/) | [Slides](week_12/NLI-LEX.CS-NLP-UU-RG%20.pdf) |
 | 13 | 26.11 | Yuxuan Wang | ? ||
 | 14 | 03.12 | Daniil | ? ||
-| 15 | 10.12 | Tao/Lucia? | ? ||
-| 16 | 17.12 | David? | ? ||
+| 15 | 10.12 | Tao | ? ||
+| 16 | 17.12 | Lucia | ? ||
 | ... | ... | ... | ... ||
-| ... | 21.01 | Pablo | ? ||
+| (new year) | 14.01 | David | ? ||
+| (new year) | 21.01 | Pablo | ? ||
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
