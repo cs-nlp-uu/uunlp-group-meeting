@@ -40,8 +40,9 @@ so that the audience can already familiarize themselves with the topic.
 | 15 | 10.12 | Tao | ? ||
 | 16 | 17.12 | Lucia | ? ||
 | ... | ... | ... | ... ||
-| (new year) | 14.01 | David | ? ||
-| (new year) | 21.01 | Pablo | ? ||
+| (new year) | 14.01 | ... | ? ||
+| (new year) | 21.01 | David | ? ||
+| (new year) | 28.01 | Pablo | ? ||
 
 
 ### Random order (to be adjusted; for requests, contact d.ignatev at uu.nl)
