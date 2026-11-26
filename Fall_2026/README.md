@@ -33,7 +33,7 @@ so that the audience can already familiarize themselves with the topic.
 | 8 | 22.10 | Guanyi | ? ||
 | 9 | 29.10 | **CANCELED** | ? ||
 | 10 | 05.11 | Yingjin | ? ||
-| 11 | 12.11 | Elize | ? ||
+| 11 | 12.11 | Elize | LLM generated content is difficult to understand | [Slides](week_11/AI_gen_slides.pdf) [Bingo](week 11/LLM bingo.png) |
 | 12 | 19.11 | Lasha | [Paper](https://aclanthology.org/2026.akbc-1.22/) | [Slides](week_12/NLI-LEX.CS-NLP-UU-RG%20.pdf) |
 | 13 | 26.11 | Yuxuan Wang | ? ||
 | 14 | 03.12 | Daniil | ? ||
